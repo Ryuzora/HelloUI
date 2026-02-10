@@ -18,3 +18,9 @@ git clone https://github.com/Ryuzora/HelloUI.git
 3. pada android studio, lakukan run dengan menekan tombol ▶️ pada bagian atas atau bisa juga dengan menekan tombol Shift+F10
 
 4. Aplikasi berhasil dijalankan
+
+## images
+
+![Gambar 1](./images/SS1.jpeg)
+![Gambar 2](./images/SS2.jpeg)
+![Gambar 3](./images/SS3.jpeg)
